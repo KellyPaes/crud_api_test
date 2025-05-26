@@ -1,0 +1,4 @@
+*.robot linguist-language=Python
+*.py linguist-detectable=true
+output/* linguist-vendored
+venv/* linguist-vendored
