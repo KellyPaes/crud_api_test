@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Python cache e arquivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Robot Framework outputs
+output/
+logs/
+report.html
+log.html
+output.xml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de editor
+*.swp
+*.tmp
+*.bak
+
+# Outros arquivos de configuração local
+.robotframework/
